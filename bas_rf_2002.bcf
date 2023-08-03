@@ -1,0 +1,730 @@
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R1";' 'meant = zonal mean (incov, inrast (1), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R2";' 'meant = zonal mean (incov, inrast (2), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R3";' 'meant = zonal mean (incov, inrast (3), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R4";' 'meant = zonal mean (incov, inrast (4), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R5";' 'meant = zonal mean (incov, inrast (5), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R6";' 'meant = zonal mean (incov, inrast (6), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R7";' 'meant = zonal mean (incov, inrast (7), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R8";' 'meant = zonal mean (incov, inrast (8), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R9";' 'meant = zonal mean (incov, inrast (9), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R10";' 'meant = zonal mean (incov, inrast (10), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R11";' 'meant = zonal mean (incov, inrast (11), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R12";' 'meant = zonal mean (incov, inrast (12), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R13";' 'meant = zonal mean (incov, inrast (13), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R14";' 'meant = zonal mean (incov, inrast (14), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R15";' 'meant = zonal mean (incov, inrast (15), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R16";' 'meant = zonal mean (incov, inrast (16), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R17";' 'meant = zonal mean (incov, inrast (17), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R18";' 'meant = zonal mean (incov, inrast (18), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R19";' 'meant = zonal mean (incov, inrast (19), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R20";' 'meant = zonal mean (incov, inrast (20), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R21";' 'meant = zonal mean (incov, inrast (21), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R22";' 'meant = zonal mean (incov, inrast (22), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R23";' 'meant = zonal mean (incov, inrast (23), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R24";' 'meant = zonal mean (incov, inrast (24), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R25";' 'meant = zonal mean (incov, inrast (25), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R26";' 'meant = zonal mean (incov, inrast (26), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R27";' 'meant = zonal mean (incov, inrast (27), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R28";' 'meant = zonal mean (incov, inrast (28), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R29";' 'meant = zonal mean (incov, inrast (29), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R30";' 'meant = zonal mean (incov, inrast (30), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R31";' 'meant = zonal mean (incov, inrast (31), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R32";' 'meant = zonal mean (incov, inrast (32), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R33";' 'meant = zonal mean (incov, inrast (33), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R34";' 'meant = zonal mean (incov, inrast (34), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R35";' 'meant = zonal mean (incov, inrast (35), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R36";' 'meant = zonal mean (incov, inrast (36), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R37";' 'meant = zonal mean (incov, inrast (37), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R38";' 'meant = zonal mean (incov, inrast (38), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R39";' 'meant = zonal mean (incov, inrast (39), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R40";' 'meant = zonal mean (incov, inrast (40), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R41";' 'meant = zonal mean (incov, inrast (41), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R42";' 'meant = zonal mean (incov, inrast (42), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R43";' 'meant = zonal mean (incov, inrast (43), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R44";' 'meant = zonal mean (incov, inrast (44), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R45";' 'meant = zonal mean (incov, inrast (45), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R46";' 'meant = zonal mean (incov, inrast (46), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R47";' 'meant = zonal mean (incov, inrast (47), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R48";' 'meant = zonal mean (incov, inrast (48), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R49";' 'meant = zonal mean (incov, inrast (49), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R50";' 'meant = zonal mean (incov, inrast (50), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R51";' 'meant = zonal mean (incov, inrast (51), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R52";' 'meant = zonal mean (incov, inrast (52), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R53";' 'meant = zonal mean (incov, inrast (53), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R54";' 'meant = zonal mean (incov, inrast (54), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R55";' 'meant = zonal mean (incov, inrast (55), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R56";' 'meant = zonal mean (incov, inrast (56), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R57";' 'meant = zonal mean (incov, inrast (57), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R58";' 'meant = zonal mean (incov, inrast (58), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R59";' 'meant = zonal mean (incov, inrast (59), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R60";' 'meant = zonal mean (incov, inrast (60), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R61";' 'meant = zonal mean (incov, inrast (61), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R62";' 'meant = zonal mean (incov, inrast (62), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R63";' 'meant = zonal mean (incov, inrast (63), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R64";' 'meant = zonal mean (incov, inrast (64), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R65";' 'meant = zonal mean (incov, inrast (65), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R66";' 'meant = zonal mean (incov, inrast (66), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R67";' 'meant = zonal mean (incov, inrast (67), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R68";' 'meant = zonal mean (incov, inrast (68), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R69";' 'meant = zonal mean (incov, inrast (69), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R70";' 'meant = zonal mean (incov, inrast (70), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R71";' 'meant = zonal mean (incov, inrast (71), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R72";' 'meant = zonal mean (incov, inrast (72), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R73";' 'meant = zonal mean (incov, inrast (73), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R74";' 'meant = zonal mean (incov, inrast (74), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R75";' 'meant = zonal mean (incov, inrast (75), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R76";' 'meant = zonal mean (incov, inrast (76), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R77";' 'meant = zonal mean (incov, inrast (77), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R78";' 'meant = zonal mean (incov, inrast (78), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R79";' 'meant = zonal mean (incov, inrast (79), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R80";' 'meant = zonal mean (incov, inrast (80), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R81";' 'meant = zonal mean (incov, inrast (81), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R82";' 'meant = zonal mean (incov, inrast (82), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R83";' 'meant = zonal mean (incov, inrast (83), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R84";' 'meant = zonal mean (incov, inrast (84), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R85";' 'meant = zonal mean (incov, inrast (85), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R86";' 'meant = zonal mean (incov, inrast (86), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R87";' 'meant = zonal mean (incov, inrast (87), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R88";' 'meant = zonal mean (incov, inrast (88), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R89";' 'meant = zonal mean (incov, inrast (89), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R90";' 'meant = zonal mean (incov, inrast (90), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R91";' 'meant = zonal mean (incov, inrast (91), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R92";' 'meant = zonal mean (incov, inrast (92), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R93";' 'meant = zonal mean (incov, inrast (93), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R94";' 'meant = zonal mean (incov, inrast (94), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R95";' 'meant = zonal mean (incov, inrast (95), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R96";' 'meant = zonal mean (incov, inrast (96), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R97";' 'meant = zonal mean (incov, inrast (97), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R98";' 'meant = zonal mean (incov, inrast (98), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R99";' 'meant = zonal mean (incov, inrast (99), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R100";' 'meant = zonal mean (incov, inrast (100), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R101";' 'meant = zonal mean (incov, inrast (101), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R102";' 'meant = zonal mean (incov, inrast (102), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R103";' 'meant = zonal mean (incov, inrast (103), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R104";' 'meant = zonal mean (incov, inrast (104), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R105";' 'meant = zonal mean (incov, inrast (105), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R106";' 'meant = zonal mean (incov, inrast (106), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R107";' 'meant = zonal mean (incov, inrast (107), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R108";' 'meant = zonal mean (incov, inrast (108), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R109";' 'meant = zonal mean (incov, inrast (109), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R110";' 'meant = zonal mean (incov, inrast (110), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R111";' 'meant = zonal mean (incov, inrast (111), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R112";' 'meant = zonal mean (incov, inrast (112), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R113";' 'meant = zonal mean (incov, inrast (113), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R114";' 'meant = zonal mean (incov, inrast (114), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R115";' 'meant = zonal mean (incov, inrast (115), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R116";' 'meant = zonal mean (incov, inrast (116), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R117";' 'meant = zonal mean (incov, inrast (117), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R118";' 'meant = zonal mean (incov, inrast (118), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R119";' 'meant = zonal mean (incov, inrast (119), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R120";' 'meant = zonal mean (incov, inrast (120), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R121";' 'meant = zonal mean (incov, inrast (121), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R122";' 'meant = zonal mean (incov, inrast (122), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R123";' 'meant = zonal mean (incov, inrast (123), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R124";' 'meant = zonal mean (incov, inrast (124), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R125";' 'meant = zonal mean (incov, inrast (125), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R126";' 'meant = zonal mean (incov, inrast (126), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R127";' 'meant = zonal mean (incov, inrast (127), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R128";' 'meant = zonal mean (incov, inrast (128), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R129";' 'meant = zonal mean (incov, inrast (129), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R130";' 'meant = zonal mean (incov, inrast (130), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R131";' 'meant = zonal mean (incov, inrast (131), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R132";' 'meant = zonal mean (incov, inrast (132), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R133";' 'meant = zonal mean (incov, inrast (133), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R134";' 'meant = zonal mean (incov, inrast (134), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R135";' 'meant = zonal mean (incov, inrast (135), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R136";' 'meant = zonal mean (incov, inrast (136), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R137";' 'meant = zonal mean (incov, inrast (137), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R138";' 'meant = zonal mean (incov, inrast (138), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R139";' 'meant = zonal mean (incov, inrast (139), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R140";' 'meant = zonal mean (incov, inrast (140), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R141";' 'meant = zonal mean (incov, inrast (141), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R142";' 'meant = zonal mean (incov, inrast (142), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R143";' 'meant = zonal mean (incov, inrast (143), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R144";' 'meant = zonal mean (incov, inrast (144), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R145";' 'meant = zonal mean (incov, inrast (145), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R146";' 'meant = zonal mean (incov, inrast (146), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R147";' 'meant = zonal mean (incov, inrast (147), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R148";' 'meant = zonal mean (incov, inrast (148), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R149";' 'meant = zonal mean (incov, inrast (149), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R150";' 'meant = zonal mean (incov, inrast (150), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R151";' 'meant = zonal mean (incov, inrast (151), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R152";' 'meant = zonal mean (incov, inrast (152), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R153";' 'meant = zonal mean (incov, inrast (153), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R154";' 'meant = zonal mean (incov, inrast (154), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R155";' 'meant = zonal mean (incov, inrast (155), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R156";' 'meant = zonal mean (incov, inrast (156), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R157";' 'meant = zonal mean (incov, inrast (157), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R158";' 'meant = zonal mean (incov, inrast (158), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R159";' 'meant = zonal mean (incov, inrast (159), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R160";' 'meant = zonal mean (incov, inrast (160), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R161";' 'meant = zonal mean (incov, inrast (161), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R162";' 'meant = zonal mean (incov, inrast (162), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R163";' 'meant = zonal mean (incov, inrast (163), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R164";' 'meant = zonal mean (incov, inrast (164), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R165";' 'meant = zonal mean (incov, inrast (165), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R166";' 'meant = zonal mean (incov, inrast (166), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R167";' 'meant = zonal mean (incov, inrast (167), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R168";' 'meant = zonal mean (incov, inrast (168), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R169";' 'meant = zonal mean (incov, inrast (169), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R170";' 'meant = zonal mean (incov, inrast (170), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R171";' 'meant = zonal mean (incov, inrast (171), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R172";' 'meant = zonal mean (incov, inrast (172), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R173";' 'meant = zonal mean (incov, inrast (173), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R174";' 'meant = zonal mean (incov, inrast (174), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R175";' 'meant = zonal mean (incov, inrast (175), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R176";' 'meant = zonal mean (incov, inrast (176), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R177";' 'meant = zonal mean (incov, inrast (177), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R178";' 'meant = zonal mean (incov, inrast (178), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R179";' 'meant = zonal mean (incov, inrast (179), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R180";' 'meant = zonal mean (incov, inrast (180), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R181";' 'meant = zonal mean (incov, inrast (181), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R182";' 'meant = zonal mean (incov, inrast (182), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R183";' 'meant = zonal mean (incov, inrast (183), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R184";' 'meant = zonal mean (incov, inrast (184), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R185";' 'meant = zonal mean (incov, inrast (185), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R186";' 'meant = zonal mean (incov, inrast (186), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R187";' 'meant = zonal mean (incov, inrast (187), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R188";' 'meant = zonal mean (incov, inrast (188), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R189";' 'meant = zonal mean (incov, inrast (189), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R190";' 'meant = zonal mean (incov, inrast (190), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R191";' 'meant = zonal mean (incov, inrast (191), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R192";' 'meant = zonal mean (incov, inrast (192), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R193";' 'meant = zonal mean (incov, inrast (193), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R194";' 'meant = zonal mean (incov, inrast (194), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R195";' 'meant = zonal mean (incov, inrast (195), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R196";' 'meant = zonal mean (incov, inrast (196), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R197";' 'meant = zonal mean (incov, inrast (197), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R198";' 'meant = zonal mean (incov, inrast (198), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R199";' 'meant = zonal mean (incov, inrast (199), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R200";' 'meant = zonal mean (incov, inrast (200), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R201";' 'meant = zonal mean (incov, inrast (201), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R202";' 'meant = zonal mean (incov, inrast (202), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R203";' 'meant = zonal mean (incov, inrast (203), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R204";' 'meant = zonal mean (incov, inrast (204), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R205";' 'meant = zonal mean (incov, inrast (205), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R206";' 'meant = zonal mean (incov, inrast (206), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R207";' 'meant = zonal mean (incov, inrast (207), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R208";' 'meant = zonal mean (incov, inrast (208), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R209";' 'meant = zonal mean (incov, inrast (209), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R210";' 'meant = zonal mean (incov, inrast (210), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R211";' 'meant = zonal mean (incov, inrast (211), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R212";' 'meant = zonal mean (incov, inrast (212), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R213";' 'meant = zonal mean (incov, inrast (213), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R214";' 'meant = zonal mean (incov, inrast (214), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R215";' 'meant = zonal mean (incov, inrast (215), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R216";' 'meant = zonal mean (incov, inrast (216), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R217";' 'meant = zonal mean (incov, inrast (217), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R218";' 'meant = zonal mean (incov, inrast (218), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R219";' 'meant = zonal mean (incov, inrast (219), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R220";' 'meant = zonal mean (incov, inrast (220), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R221";' 'meant = zonal mean (incov, inrast (221), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R222";' 'meant = zonal mean (incov, inrast (222), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R223";' 'meant = zonal mean (incov, inrast (223), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R224";' 'meant = zonal mean (incov, inrast (224), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R225";' 'meant = zonal mean (incov, inrast (225), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R226";' 'meant = zonal mean (incov, inrast (226), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R227";' 'meant = zonal mean (incov, inrast (227), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R228";' 'meant = zonal mean (incov, inrast (228), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R229";' 'meant = zonal mean (incov, inrast (229), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R230";' 'meant = zonal mean (incov, inrast (230), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R231";' 'meant = zonal mean (incov, inrast (231), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R232";' 'meant = zonal mean (incov, inrast (232), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R233";' 'meant = zonal mean (incov, inrast (233), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R234";' 'meant = zonal mean (incov, inrast (234), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R235";' 'meant = zonal mean (incov, inrast (235), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R236";' 'meant = zonal mean (incov, inrast (236), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R237";' 'meant = zonal mean (incov, inrast (237), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R238";' 'meant = zonal mean (incov, inrast (238), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R239";' 'meant = zonal mean (incov, inrast (239), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R240";' 'meant = zonal mean (incov, inrast (240), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R241";' 'meant = zonal mean (incov, inrast (241), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R242";' 'meant = zonal mean (incov, inrast (242), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R243";' 'meant = zonal mean (incov, inrast (243), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R244";' 'meant = zonal mean (incov, inrast (244), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R245";' 'meant = zonal mean (incov, inrast (245), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R246";' 'meant = zonal mean (incov, inrast (246), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R247";' 'meant = zonal mean (incov, inrast (247), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R248";' 'meant = zonal mean (incov, inrast (248), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R249";' 'meant = zonal mean (incov, inrast (249), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R250";' 'meant = zonal mean (incov, inrast (250), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R251";' 'meant = zonal mean (incov, inrast (251), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R252";' 'meant = zonal mean (incov, inrast (252), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R253";' 'meant = zonal mean (incov, inrast (253), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R254";' 'meant = zonal mean (incov, inrast (254), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R255";' 'meant = zonal mean (incov, inrast (255), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R256";' 'meant = zonal mean (incov, inrast (256), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R257";' 'meant = zonal mean (incov, inrast (257), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R258";' 'meant = zonal mean (incov, inrast (258), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R259";' 'meant = zonal mean (incov, inrast (259), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R260";' 'meant = zonal mean (incov, inrast (260), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R261";' 'meant = zonal mean (incov, inrast (261), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R262";' 'meant = zonal mean (incov, inrast (262), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R263";' 'meant = zonal mean (incov, inrast (263), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R264";' 'meant = zonal mean (incov, inrast (264), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R265";' 'meant = zonal mean (incov, inrast (265), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R266";' 'meant = zonal mean (incov, inrast (266), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R267";' 'meant = zonal mean (incov, inrast (267), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R268";' 'meant = zonal mean (incov, inrast (268), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R269";' 'meant = zonal mean (incov, inrast (269), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R270";' 'meant = zonal mean (incov, inrast (270), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R271";' 'meant = zonal mean (incov, inrast (271), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R272";' 'meant = zonal mean (incov, inrast (272), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R273";' 'meant = zonal mean (incov, inrast (273), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R274";' 'meant = zonal mean (incov, inrast (274), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R275";' 'meant = zonal mean (incov, inrast (275), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R276";' 'meant = zonal mean (incov, inrast (276), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R277";' 'meant = zonal mean (incov, inrast (277), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R278";' 'meant = zonal mean (incov, inrast (278), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R279";' 'meant = zonal mean (incov, inrast (279), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R280";' 'meant = zonal mean (incov, inrast (280), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R281";' 'meant = zonal mean (incov, inrast (281), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R282";' 'meant = zonal mean (incov, inrast (282), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R283";' 'meant = zonal mean (incov, inrast (283), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R284";' 'meant = zonal mean (incov, inrast (284), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R285";' 'meant = zonal mean (incov, inrast (285), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R286";' 'meant = zonal mean (incov, inrast (286), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R287";' 'meant = zonal mean (incov, inrast (287), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R288";' 'meant = zonal mean (incov, inrast (288), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R289";' 'meant = zonal mean (incov, inrast (289), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R290";' 'meant = zonal mean (incov, inrast (290), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R291";' 'meant = zonal mean (incov, inrast (291), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R292";' 'meant = zonal mean (incov, inrast (292), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R293";' 'meant = zonal mean (incov, inrast (293), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R294";' 'meant = zonal mean (incov, inrast (294), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R295";' 'meant = zonal mean (incov, inrast (295), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R296";' 'meant = zonal mean (incov, inrast (296), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R297";' 'meant = zonal mean (incov, inrast (297), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R298";' 'meant = zonal mean (incov, inrast (298), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R299";' 'meant = zonal mean (incov, inrast (299), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R300";' 'meant = zonal mean (incov, inrast (300), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R301";' 'meant = zonal mean (incov, inrast (301), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R302";' 'meant = zonal mean (incov, inrast (302), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R303";' 'meant = zonal mean (incov, inrast (303), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R304";' 'meant = zonal mean (incov, inrast (304), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R305";' 'meant = zonal mean (incov, inrast (305), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R306";' 'meant = zonal mean (incov, inrast (306), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R307";' 'meant = zonal mean (incov, inrast (307), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R308";' 'meant = zonal mean (incov, inrast (308), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R309";' 'meant = zonal mean (incov, inrast (309), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R310";' 'meant = zonal mean (incov, inrast (310), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R311";' 'meant = zonal mean (incov, inrast (311), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R312";' 'meant = zonal mean (incov, inrast (312), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R313";' 'meant = zonal mean (incov, inrast (313), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R314";' 'meant = zonal mean (incov, inrast (314), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R315";' 'meant = zonal mean (incov, inrast (315), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R316";' 'meant = zonal mean (incov, inrast (316), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R317";' 'meant = zonal mean (incov, inrast (317), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R318";' 'meant = zonal mean (incov, inrast (318), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R319";' 'meant = zonal mean (incov, inrast (319), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R320";' 'meant = zonal mean (incov, inrast (320), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R321";' 'meant = zonal mean (incov, inrast (321), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R322";' 'meant = zonal mean (incov, inrast (322), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R323";' 'meant = zonal mean (incov, inrast (323), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R324";' 'meant = zonal mean (incov, inrast (324), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R325";' 'meant = zonal mean (incov, inrast (325), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R326";' 'meant = zonal mean (incov, inrast (326), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R327";' 'meant = zonal mean (incov, inrast (327), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R328";' 'meant = zonal mean (incov, inrast (328), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R329";' 'meant = zonal mean (incov, inrast (329), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R330";' 'meant = zonal mean (incov, inrast (330), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R331";' 'meant = zonal mean (incov, inrast (331), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R332";' 'meant = zonal mean (incov, inrast (332), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R333";' 'meant = zonal mean (incov, inrast (333), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R334";' 'meant = zonal mean (incov, inrast (334), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R335";' 'meant = zonal mean (incov, inrast (335), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R336";' 'meant = zonal mean (incov, inrast (336), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R337";' 'meant = zonal mean (incov, inrast (337), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R338";' 'meant = zonal mean (incov, inrast (338), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R339";' 'meant = zonal mean (incov, inrast (339), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R340";' 'meant = zonal mean (incov, inrast (340), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R341";' 'meant = zonal mean (incov, inrast (341), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R342";' 'meant = zonal mean (incov, inrast (342), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R343";' 'meant = zonal mean (incov, inrast (343), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R344";' 'meant = zonal mean (incov, inrast (344), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R345";' 'meant = zonal mean (incov, inrast (345), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R346";' 'meant = zonal mean (incov, inrast (346), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R347";' 'meant = zonal mean (incov, inrast (347), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R348";' 'meant = zonal mean (incov, inrast (348), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R349";' 'meant = zonal mean (incov, inrast (349), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R350";' 'meant = zonal mean (incov, inrast (350), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R351";' 'meant = zonal mean (incov, inrast (351), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R352";' 'meant = zonal mean (incov, inrast (352), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R353";' 'meant = zonal mean (incov, inrast (353), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R354";' 'meant = zonal mean (incov, inrast (354), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R355";' 'meant = zonal mean (incov, inrast (355), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R356";' 'meant = zonal mean (incov, inrast (356), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R357";' 'meant = zonal mean (incov, inrast (357), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R358";' 'meant = zonal mean (incov, inrast (358), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R359";' 'meant = zonal mean (incov, inrast (359), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R360";' 'meant = zonal mean (incov, inrast (360), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R361";' 'meant = zonal mean (incov, inrast (361), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R362";' 'meant = zonal mean (incov, inrast (362), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R363";' 'meant = zonal mean (incov, inrast (363), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R364";' 'meant = zonal mean (incov, inrast (364), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
+modeler -nq -meter -state covzonal.pmdl Union "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/subbasin11.shp" integer "e:/research/hydrologicalmodelling/hechmspractical/projecttest2/rain_20021.img" 'float table meant attribute incov :: "R365";' 'meant = zonal mean (incov, inrast (365), useall 0);' "None" 27410.7571351127 27410.75713511269 meters Polygon 
+
